@@ -1,0 +1,15 @@
+:root {
+  --background-color: #121212;
+  --text-color: #ffffff;
+  --button-bg: #333333;
+  --button-text: #ffffff;
+}
+
+/* Dark Theme */
+body.light-theme {
+
+  --background-color: #ffffff;
+  --text-color: #000000;
+  --button-bg: #f0f0f0;
+  --button-text: #000000;
+}
